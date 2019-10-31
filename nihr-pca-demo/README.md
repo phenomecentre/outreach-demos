@@ -1,4 +1,4 @@
-# NMR PCA Demo
+# NIHR PCA Demo
 
 This jupyter notebook is a demo for the analysis of NMR data by Principal Component Analysis.
 
