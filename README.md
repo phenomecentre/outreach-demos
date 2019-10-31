@@ -1,4 +1,4 @@
-# outreach-demos
+# NPC Outreach Demos
 Collection of demos for use in outreach activities
 
 ## NIHR PCA Demo
